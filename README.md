@@ -8,7 +8,7 @@ I am a assistant professor at university of Grenoble Alpes.
 
 ## Contact
 
-Feel free to reach out to me via email at [toufik.boubehziz@gmail.com] or through my [LinkedIn](https://www.linkedin.com/in/toufik-boubehziz-b8405b166/) profile.
+Feel free to reach out to me via email at [toufik.boubehziz@gmail.com] or through my [Researchgate](https://www.researchgate.net/profile/Boubehziz-Toufik) and [LinkedIn](https://www.linkedin.com/in/toufik-boubehziz-b8405b166/) profiles.
 
 # Research 
 - Toufik Boubehziz, Carlors Quesada-Granja, Claire Dupont, Pierre Villon,
