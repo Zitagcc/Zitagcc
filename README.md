@@ -4,12 +4,20 @@ Welcome to my portfolio! Here you can find information about my projects, skills
 
 ## About Me
 
-I am a assistant professor at university of Grenoble Alpes. 
+Currently, I am a assistant professor at university of Grenoble Alpes. 
 
 ## Contact
 
-Feel free to reach out to me via email at [toufik.boubehziz@gmail.com] or through my [Researchgate](https://www.researchgate.net/profile/Boubehziz-Toufik) and [LinkedIn](https://www.linkedin.com/in/toufik-boubehziz-b8405b166/) profiles.
+Feel free to reach out to me via email at [toufik.boubehziz@univ-grenoble-alpes.fr] or through my [Researchgate](https://www.researchgate.net/profile/Boubehziz-Toufik) and [LinkedIn](https://www.linkedin.com/in/toufik-boubehziz-b8405b166/) profiles.
 
+# Research Topics
+ -  Model reduction
+ -  Numerical methods
+ -  Machine learning
+ -  Free boundary problems
+ -  Natural language processing
+ -  Data mining
+   
 # Research 
 - Toufik Boubehziz, Carlors Quesada-Granja, Claire Dupont, Pierre Villon,
     Florian De Vuyst, and Anne-Virginie Salsac, A data-driven 
@@ -20,6 +28,9 @@ Feel free to reach out to me via email at [toufik.boubehziz@gmail.com] or throug
     On the numerical study of an obstacle optimal control problem 
     with source term, JAMC, 2013.
 ## Communication in congress with reading committee
+  - Tom Rousseau, Marceau Hernandez, Iglika Stoupak, Angelo Mendoca-Manhoso, Andrea Blivet, Chang Liu, Toufik Boubehziz, Corina Chutaux, Gaël Guibon, Gaël Lejeune, Luce Lefeuvre, 
+    Trois méthodes Sorbonne et SNCF pour la résolution de QCM (DEFT2024), 
+    Actes du Défi Fouille de Textes@TALN 2024, pages 47–57, 8 Juillet, 2024.    
   -  Julien Bezançon, Toufik Boubehziz, Corina Chutaux, Oumaima Zine, Laurie Acensio, Andrea Briglia, Caroline Koudoro-Parfait, Gaël Lejeune, 
     Résolution automatique de QCM médicaux à partir de corpus de domaine et de mesures de similarité, 
     SPQR@Deft2023, 5 Juin, 2023. 
