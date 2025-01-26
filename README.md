@@ -2,10 +2,6 @@
 
 Welcome to my portfolio! Here you can find information about my projects, skills, and experience.
 
-## About Me
-
-Currently, I am a assistant professor at university of Grenoble Alpes. 
-
 ## Contact
 
 Feel free to reach out to me via email at [toufik.boubehziz@univ-grenoble-alpes.fr] or through my [Researchgate](https://www.researchgate.net/profile/Boubehziz-Toufik) and [LinkedIn](https://www.linkedin.com/in/toufik-boubehziz-b8405b166/) profiles.
