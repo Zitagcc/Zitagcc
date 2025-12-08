@@ -4,15 +4,14 @@ Welcome to my portfolio! Here you can find information about my projects, skills
 
 ## Contact
 
-Feel free to reach out to me via email at [toufik.boubehziz@univ-grenoble-alpes.fr] or through my [Researchgate](https://www.researchgate.net/profile/Boubehziz-Toufik) and [LinkedIn](https://www.linkedin.com/in/toufik-boubehziz-b8405b166/) profiles.
+Feel free to reach out to me via email at [toufik.boubehziz@ensam.eu] or through my [Researchgate](https://www.researchgate.net/profile/Boubehziz-Toufik) and [LinkedIn](https://www.linkedin.com/in/toufik-boubehziz-b8405b166/) profiles.
 
 # Research Topics
- -  Model reduction
+ -  Model reduction and surrogate models
  -  Numerical methods
  -  Machine learning
  -  Free boundary problems
  -  Natural language processing
- -  Data mining
    
 # Research 
 - Toufik Boubehziz, Carlors Quesada-Granja, Claire Dupont, Pierre Villon,
@@ -39,6 +38,8 @@ Feel free to reach out to me via email at [toufik.boubehziz@univ-grenoble-alpes.
     méthode de décomposition de domaine en recouvrement avec joints, 
     8ème Conférence Européenne sur les Méthodes Numériques en Electromagnétisme 
     (NUMELEC 2015), Juin 2015, Saint-Nazaire, France. 2 p.
+## Communication in congress without reading committee
+
 ## Reviewing articles
   - Boletim da Sociedade Paranaense de Matemática
 ## Center of interest
