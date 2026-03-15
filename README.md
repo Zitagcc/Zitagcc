@@ -14,6 +14,8 @@ Feel free to reach out to me via email at [toufik.boubehziz@ensam.eu] or through
  -  Natural language processing
    
 # Research 
+- Dj Mazhoud, F Saci, and T Boubehziz. Conformable fractional derivative applied to fractional bloch
+model. Gulf Journal of mathematics, 2025.
 - Toufik Boubehziz, Carlors Quesada-Granja, Claire Dupont, Pierre Villon,
     Florian De Vuyst, and Anne-Virginie Salsac, A data-driven 
     space-time-parameter reduced-order model with manifold learning for 
@@ -23,6 +25,9 @@ Feel free to reach out to me via email at [toufik.boubehziz@ensam.eu] or through
     On the numerical study of an obstacle optimal control problem 
     with source term, JAMC, 2013.
 ## Communication in congress with reading committee
+  - Toufik Boubehziz, Caroline Parfait, and Gaël Lejeune, Assessing the Impact of Image Resolution on
+OCR Transcription Accuracy, ACM / IEEE Joint Conference on Digital Libraries (JCDL) Dec 15-19,
+2025
   - Tom Rousseau, Marceau Hernandez, Iglika Stoupak, Angelo Mendoca-Manhoso, Andrea Blivet, Chang Liu, Toufik Boubehziz, Corina Chutaux, Gaël Guibon, Gaël Lejeune, Luce Lefeuvre, 
     Trois méthodes Sorbonne et SNCF pour la résolution de QCM (DEFT2024), 
     Actes du Défi Fouille de Textes@TALN 2024, pages 47–57, 8 Juillet, 2024.    
